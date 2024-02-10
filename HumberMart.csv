@@ -1,0 +1,500 @@
+Date,Invoice ID,City,Customer type,Gender,Product line,Unit price,Quantity,Tax,Payment,cogs,Rating
+01-05-2019,750-67-8428,Toronto,Member,Female,Health and beauty,74.69,7,26.1415,Ewallet,522.83,9.1
+03-08-2019,226-31-3081,Vancouver,Normal,Female,Electronic accessories,15.28,5,3.82,Cash,76.4,9.6
+03-03-2019,631-41-3108,Toronto,Normal,Female,Home and lifestyle,46.33,7,16.2155,Credit card,324.31,7.4
+1/27/2019,123-19-1176,Toronto,Member,Male,Health and beauty,58.22,8,23.288,Ewallet,465.76,8.4
+02-08-2019,373-73-7910,Toronto,Normal,Male,Sports and travel,86.31,7,30.2085,Ewallet,604.17,5.3
+3/25/2019,699-14-3026,Vancouver,Normal,Female,Electronic accessories,85.39,7,29.8865,Ewallet,597.73,4.1
+2/25/2019,355-53-5943,Toronto,Member,Female,Electronic accessories,68.84,6,20.652,Ewallet,413.04,5.8
+2/24/2019,315-22-5665,Vancouver,Normal,Female,Home and lifestyle,73.56,10,36.78,Ewallet,735.6,8
+01-10-2019,665-32-9167,Toronto,Member,Female,Health and beauty,36.26,2,3.626,Credit card,72.52,7.2
+2/20/2019,692-92-5582,Montreal,Member,Female,Food and beverages,54.84,3,8.226,Credit card,164.52,5.9
+02-06-2019,351-62-0822,Montreal,Member,Female,Fashion accessories,14.48,4,2.896,Ewallet,57.92,4.5
+03-09-2019,529-56-3974,Montreal,Member,Female,Electronic accessories,25.51,4,5.102,Cash,102.04,6.8
+02-12-2019,365-64-0515,Toronto,Normal,Female,Electronic accessories,46.95,5,11.7375,Ewallet,234.75,7.1
+02-07-2019,252-56-2699,Toronto,Normal,Female,Food and beverages,43.19,10,21.595,Ewallet,431.9,8.2
+3/29/2019,829-34-3910,Toronto,Normal,Female,Health and beauty,71.38,10,35.69,Cash,713.8,5.7
+1/15/2019,299-46-1805,Montreal,Member,Female,Sports and travel,93.72,6,28.116,Cash,562.32,4.5
+03-11-2019,656-95-9349,Toronto,Member,Female,Health and beauty,68.93,7,24.1255,Credit card,482.51,4.6
+01-01-2019,765-26-6951,Toronto,Normal,Male,Sports and travel,72.61,6,21.783,Credit card,435.66,6.9
+1/21/2019,329-62-1586,Toronto,Normal,Male,Food and beverages,54.67,3,8.2005,Credit card,164.01,8.6
+03-11-2019,319-50-3348,Montreal,Normal,Female,Home and lifestyle,40.3,2,4.03,Ewallet,80.6,4.4
+2/25/2019,300-71-4605,Vancouver,Member,Male,Electronic accessories,86.04,5,21.51,Ewallet,430.2,4.8
+03-05-2019,371-85-5789,Montreal,Normal,Male,Health and beauty,87.98,3,13.197,Ewallet,263.94,5.1
+3/15/2019,273-16-6619,Montreal,Normal,Male,Home and lifestyle,33.2,2,3.32,Credit card,66.4,4.4
+2/17/2019,636-48-8204,Toronto,Normal,Female,Electronic accessories,34.56,5,8.64,Ewallet,172.8,9.9
+03-02-2019,549-59-1358,Toronto,Member,Female,Sports and travel,88.63,3,13.2945,Ewallet,265.89,6
+3/22/2019,227-03-5010,Toronto,Member,Female,Home and lifestyle,52.59,8,21.036,Credit card,420.72,8.5
+02-08-2019,649-29-6775,Montreal,Normal,Female,Fashion accessories,33.52,1,1.676,Cash,33.52,6.7
+03-10-2019,189-17-4241,Toronto,Normal,Female,Fashion accessories,87.67,2,8.767,Credit card,175.34,7.7
+1/25/2019,145-94-9061,Montreal,Normal,Female,Food and beverages,88.36,5,22.09,Cash,441.8,9.6
+3/15/2019,848-62-7243,Toronto,Normal,Male,Health and beauty,24.89,9,11.2005,Cash,224.01,7.4
+2/25/2019,871-79-8483,Montreal,Normal,Male,Fashion accessories,94.13,5,23.5325,Credit card,470.65,4.8
+1/28/2019,149-71-6266,Montreal,Member,Male,Food and beverages,78.07,9,35.1315,Cash,702.63,4.5
+01-10-2019,640-49-2076,Montreal,Normal,Male,Sports and travel,83.78,8,33.512,Cash,670.24,5.1
+3/15/2019,595-11-5460,Toronto,Normal,Female,Health and beauty,96.58,2,9.658,Credit card,193.16,5.1
+02-06-2019,183-56-6882,Vancouver,Member,Female,Food and beverages,99.42,4,19.884,Ewallet,397.68,7.5
+01-07-2019,232-16-2483,Vancouver,Member,Female,Sports and travel,68.12,1,3.406,Ewallet,68.12,6.8
+03-10-2019,129-29-8530,Toronto,Member,Female,Home and lifestyle,62.62,5,15.655,Ewallet,313.1,7
+1/15/2019,272-65-1806,Toronto,Normal,Female,Electronic accessories,60.88,9,27.396,Ewallet,547.92,4.7
+3/23/2019,333-73-7901,Vancouver,Normal,Female,Health and beauty,54.92,8,21.968,Ewallet,439.36,7.6
+03-03-2019,777-82-7220,Montreal,Member,Male,Home and lifestyle,30.12,8,12.048,Cash,240.96,7.7
+1/17/2019,280-35-5823,Montreal,Member,Female,Home and lifestyle,86.72,1,4.336,Ewallet,86.72,7.9
+02-02-2019,554-53-8700,Vancouver,Member,Male,Home and lifestyle,56.11,2,5.611,Cash,112.22,6.3
+02-08-2019,354-25-5821,Montreal,Member,Female,Home and lifestyle,69.12,6,20.736,Cash,414.72,5.6
+03-04-2019,228-96-1411,Vancouver,Member,Female,Food and beverages,98.7,8,39.48,Cash,789.6,7.6
+3/16/2019,617-15-4209,Vancouver,Member,Male,Health and beauty,15.37,2,1.537,Cash,30.74,7.2
+03-09-2019,132-32-9879,Montreal,Member,Female,Electronic accessories,93.96,4,18.792,Cash,375.84,9.5
+2/27/2019,370-41-7321,Montreal,Member,Female,Health and beauty,56.69,9,25.5105,Credit card,510.21,8.4
+02-06-2019,727-46-3608,Montreal,Member,Female,Food and beverages,20.01,9,9.0045,Ewallet,180.09,4.1
+02-10-2019,669-54-1719,Montreal,Member,Female,Electronic accessories,18.93,6,5.679,Credit card,113.58,8.1
+3/19/2019,574-22-5561,Vancouver,Member,Female,Electronic accessories,82.63,10,41.315,Ewallet,826.3,7.9
+02-03-2019,326-78-5178,Vancouver,Member,Female,Food and beverages,91.4,7,31.99,Cash,639.8,9.5
+02-10-2019,162-48-8011,Toronto,Member,Female,Food and beverages,44.59,5,11.1475,Cash,222.95,8.5
+3/22/2019,616-24-2851,Montreal,Member,Female,Fashion accessories,17.87,4,3.574,Ewallet,71.48,6.5
+1/25/2019,778-71-5554,Vancouver,Member,Male,Fashion accessories,15.43,1,0.7715,Credit card,15.43,6.1
+03-07-2019,242-55-6721,Montreal,Normal,Male,Home and lifestyle,16.16,2,1.616,Ewallet,32.32,6.5
+2/28/2019,399-46-5918,Vancouver,Normal,Female,Electronic accessories,85.98,8,34.392,Cash,687.84,8.2
+3/27/2019,106-35-6779,Toronto,Member,Male,Home and lifestyle,44.34,2,4.434,Cash,88.68,5.8
+02-07-2019,635-40-6220,Toronto,Normal,Female,Health and beauty,89.6,8,35.84,Ewallet,716.8,6.6
+1/20/2019,817-48-8732,Toronto,Member,Female,Home and lifestyle,72.35,10,36.175,Cash,723.5,5.4
+03-12-2019,120-06-4233,Vancouver,Normal,Female,Electronic accessories,30.61,6,9.183,Cash,183.66,9.3
+2/15/2019,285-68-5083,Vancouver,Member,Female,Home and lifestyle,24.74,3,3.711,Credit card,74.22,10
+2/24/2019,803-83-5989,Vancouver,Normal,Female,Home and lifestyle,55.73,6,16.719,Ewallet,334.38,7
+02-03-2019,347-34-2234,Montreal,Member,Female,Home and lifestyle,55.07,9,24.7815,Ewallet,495.63,10
+03-06-2019,199-75-8169,Toronto,Member,Female,Health and beauty,15.81,10,7.905,Credit card,158.1,8.6
+2/14/2019,853-23-2453,Montreal,Member,Male,Health and beauty,75.74,4,15.148,Cash,302.96,7.6
+3/13/2019,877-22-3308,Toronto,Member,Male,Health and beauty,15.87,10,7.935,Cash,158.7,5.8
+02-10-2019,838-78-4295,Vancouver,Normal,Female,Health and beauty,33.47,2,3.347,Ewallet,66.94,6.7
+01-07-2019,109-28-2512,Montreal,Member,Female,Fashion accessories,97.61,6,29.283,Ewallet,585.66,9.9
+1/24/2019,232-11-3025,Toronto,Normal,Male,Fashion accessories,78.77,10,39.385,Cash,787.7,6.4
+02-02-2019,382-03-4532,Toronto,Member,Female,Health and beauty,18.33,1,0.9165,Cash,18.33,4.3
+01-06-2019,393-65-2792,Vancouver,Normal,Female,Food and beverages,89.48,10,44.74,Credit card,894.8,9.6
+02-11-2019,796-12-2025,Vancouver,Normal,Female,Electronic accessories,62.12,10,31.06,Cash,621.2,5.9
+03-05-2019,510-95-6347,Montreal,Member,Female,Food and beverages,48.52,3,7.278,Ewallet,145.56,4
+03-09-2019,841-35-6630,Vancouver,Normal,Female,Electronic accessories,75.91,6,22.773,Cash,455.46,8.7
+1/22/2019,287-21-9091,Toronto,Normal,Male,Home and lifestyle,74.67,9,33.6015,Ewallet,672.03,9.4
+1/13/2019,732-94-0499,Vancouver,Normal,Female,Electronic accessories,41.65,10,20.825,Credit card,416.5,5.4
+01-09-2019,263-10-3913,Vancouver,Member,Male,Fashion accessories,49.04,9,22.068,Credit card,441.36,8.6
+01-12-2019,381-20-0914,Toronto,Member,Female,Fashion accessories,20.01,9,9.0045,Credit card,180.09,5.7
+03-05-2019,829-49-1914,Vancouver,Member,Female,Food and beverages,78.31,10,39.155,Ewallet,783.1,6.6
+1/22/2019,756-01-7507,Vancouver,Normal,Female,Health and beauty,20.38,5,5.095,Cash,101.9,6
+1/21/2019,870-72-4431,Vancouver,Normal,Female,Health and beauty,99.19,6,29.757,Credit card,595.14,5.5
+1/26/2019,847-38-7188,Montreal,Normal,Female,Food and beverages,96.68,3,14.502,Ewallet,290.04,6.4
+1/23/2019,480-63-2856,Vancouver,Normal,Male,Food and beverages,19.25,8,7.7,Ewallet,154,6.6
+2/23/2019,787-56-0757,Vancouver,Member,Female,Food and beverages,80.36,4,16.072,Credit card,321.44,8.3
+03-09-2019,360-39-5055,Vancouver,Member,Male,Home and lifestyle,48.91,5,12.2275,Cash,244.55,6.6
+03-05-2019,730-50-9884,Vancouver,Normal,Female,Home and lifestyle,83.06,7,29.071,Ewallet,581.42,4
+3/25/2019,362-58-8315,Vancouver,Normal,Female,Food and beverages,76.52,5,19.13,Cash,382.6,9.9
+3/27/2019,633-44-8566,Toronto,Member,Female,Food and beverages,49.38,7,17.283,Credit card,345.66,7.3
+01-02-2019,504-35-8843,Toronto,Normal,Male,Home and lifestyle,42.47,1,2.1235,Cash,42.47,5.7
+2/27/2019,318-68-5053,Montreal,Normal,Female,Food and beverages,76.99,6,23.097,Cash,461.94,6.1
+1/23/2019,565-80-5980,Vancouver,Member,Female,Home and lifestyle,47.38,4,9.476,Cash,189.52,7.1
+1/26/2019,225-32-0908,Vancouver,Normal,Female,Food and beverages,44.86,10,22.43,Ewallet,448.6,8.2
+01-10-2019,873-51-0671,Toronto,Member,Female,Home and lifestyle,21.98,7,7.693,Ewallet,153.86,5.1
+03-12-2019,152-08-9985,Montreal,Member,Male,Food and beverages,64.36,9,28.962,Credit card,579.24,8.6
+02-06-2019,512-91-0811,Vancouver,Normal,Male,Food and beverages,89.75,1,4.4875,Credit card,89.75,6.6
+03-08-2019,594-34-4444,Toronto,Normal,Female,Electronic accessories,97.16,1,4.858,Ewallet,97.16,7.2
+3/29/2019,766-85-7061,Montreal,Normal,Female,Food and beverages,87.87,10,43.935,Ewallet,878.7,5.1
+02-09-2019,871-39-9221,Vancouver,Normal,Female,Electronic accessories,12.45,6,3.735,Cash,74.7,4.1
+3/23/2019,865-92-6136,Toronto,Normal,Female,Food and beverages,52.75,3,7.9125,Ewallet,158.25,9.3
+03-05-2019,733-01-9107,Montreal,Normal,Male,Home and lifestyle,82.7,6,24.81,Cash,496.2,7.4
+3/26/2019,163-56-7055,Vancouver,Member,Male,Food and beverages,48.71,1,2.4355,Cash,48.71,4.1
+03-01-2019,189-98-2939,Vancouver,Normal,Male,Food and beverages,78.55,9,35.3475,Cash,706.95,7.2
+02-01-2019,551-21-3069,Vancouver,Normal,Female,Electronic accessories,23.07,9,10.3815,Cash,207.63,4.9
+3/28/2019,212-62-1842,Toronto,Normal,Male,Food and beverages,58.26,6,17.478,Cash,349.56,9.9
+3/19/2019,716-39-1409,Montreal,Normal,Female,Food and beverages,30.35,7,10.6225,Cash,212.45,8
+01-12-2019,704-48-3927,Toronto,Member,Female,Electronic accessories,88.67,10,44.335,Ewallet,886.7,7.3
+01-05-2019,628-34-3388,Vancouver,Normal,Female,Food and beverages,27.38,6,8.214,Credit card,164.28,7.9
+3/22/2019,630-74-5166,Toronto,Normal,Male,Sports and travel,62.13,6,18.639,Cash,372.78,7.4
+3/24/2019,588-01-7461,Vancouver,Normal,Female,Food and beverages,33.98,9,15.291,Cash,305.82,4.2
+03-03-2019,861-77-0145,Vancouver,Member,Male,Electronic accessories,81.97,10,40.985,Cash,819.7,9.2
+02-05-2019,479-26-8945,Montreal,Member,Female,Sports and travel,16.49,2,1.649,Ewallet,32.98,4.6
+02-05-2019,210-67-5886,Vancouver,Member,Female,Food and beverages,98.21,3,14.7315,Credit card,294.63,7.8
+2/15/2019,227-78-1148,Montreal,Normal,Female,Food and beverages,72.84,7,25.494,Cash,509.88,8.4
+1/19/2019,645-44-1170,Toronto,Member,Male,Home and lifestyle,58.07,9,26.1315,Ewallet,522.63,4.3
+02-01-2019,237-01-6122,Vancouver,Member,Female,Home and lifestyle,80.79,9,36.3555,Credit card,727.11,9.5
+03-02-2019,225-98-1496,Vancouver,Normal,Female,Food and beverages,27.02,3,4.053,Credit card,81.06,7.1
+03-05-2019,291-32-1427,Montreal,Member,Male,Food and beverages,21.94,5,5.485,Ewallet,109.7,5.3
+1/16/2019,659-65-8956,Montreal,Member,Female,Food and beverages,51.36,1,2.568,Ewallet,51.36,5.2
+02-02-2019,642-32-2990,Toronto,Normal,Female,Food and beverages,10.96,10,5.48,Ewallet,109.6,6
+1/20/2019,378-24-2715,Montreal,Normal,Female,Home and lifestyle,53.44,2,5.344,Ewallet,106.88,4.1
+2/14/2019,638-60-7125,Toronto,Normal,Female,Electronic accessories,99.56,8,39.824,Credit card,796.48,5.2
+01-12-2019,659-36-1684,Vancouver,Member,Female,Sports and travel,57.12,7,19.992,Credit card,399.84,6.5
+03-09-2019,219-22-9386,Montreal,Member,Male,Food and beverages,99.96,10,49.98,Credit card,999.6,4.2
+3/13/2019,336-78-2147,Vancouver,Member,Male,Home and lifestyle,63.91,8,25.564,Credit card,511.28,4.6
+03-09-2019,268-27-6179,Montreal,Member,Female,Food and beverages,56.47,8,22.588,Ewallet,451.76,7.3
+03-10-2019,668-90-8900,Toronto,Normal,Female,Home and lifestyle,93.69,7,32.7915,Credit card,655.83,4.5
+1/27/2019,870-54-3162,Toronto,Normal,Female,Sports and travel,32.25,5,8.0625,Cash,161.25,9
+01-08-2019,189-08-9157,Vancouver,Normal,Female,Food and beverages,31.73,9,14.2785,Credit card,285.57,5.9
+01-08-2019,663-86-9076,Vancouver,Member,Female,Food and beverages,68.54,8,27.416,Ewallet,548.32,8.5
+02-08-2019,549-84-7482,Montreal,Normal,Female,Sports and travel,90.28,9,40.626,Ewallet,812.52,7.2
+1/25/2019,191-10-6171,Montreal,Normal,Female,Food and beverages,39.62,7,13.867,Cash,277.34,7.5
+03-06-2019,802-70-5316,Toronto,Member,Female,Sports and travel,92.13,6,27.639,Cash,552.78,8.3
+02-10-2019,695-51-0018,Montreal,Normal,Female,Sports and travel,34.84,4,6.968,Cash,139.36,7.4
+2/17/2019,590-83-4591,Montreal,Member,Male,Electronic accessories,87.45,6,26.235,Credit card,524.7,8.8
+03-08-2019,483-71-1164,Vancouver,Normal,Female,Food and beverages,81.3,6,24.39,Ewallet,487.8,5.3
+2/18/2019,597-78-7908,Vancouver,Normal,Male,Food and beverages,90.22,3,13.533,Cash,270.66,6.2
+1/18/2019,700-81-1757,Toronto,Normal,Female,Electronic accessories,26.31,5,6.5775,Credit card,131.55,8.8
+2/18/2019,354-39-5160,Toronto,Member,Female,Home and lifestyle,34.42,6,10.326,Cash,206.52,9.8
+2/16/2019,241-72-9525,Montreal,Normal,Male,Food and beverages,51.91,10,25.955,Cash,519.1,8.2
+3/16/2019,575-30-8091,Toronto,Normal,Male,Sports and travel,72.5,8,29,Ewallet,580,9.2
+1/23/2019,731-81-9469,Vancouver,Member,Female,Food and beverages,89.8,10,44.9,Credit card,898,5.4
+1/25/2019,280-17-4359,Vancouver,Member,Female,Food and beverages,90.5,10,45.25,Cash,905,8.1
+02-05-2019,338-65-2210,Vancouver,Member,Female,Food and beverages,68.6,10,34.3,Cash,686,9.1
+2/22/2019,488-25-4221,Vancouver,Member,Female,Food and beverages,30.41,1,1.5205,Credit card,30.41,8.4
+1/21/2019,239-10-7476,Toronto,Normal,Female,Home and lifestyle,77.95,6,23.385,Ewallet,467.7,8
+03-08-2019,458-41-1477,Vancouver,Normal,Female,Food and beverages,46.26,6,13.878,Credit card,277.56,9.5
+02-10-2019,685-64-1609,Toronto,Member,Female,Electronic accessories,30.14,10,15.07,Ewallet,301.4,9.2
+3/19/2019,568-90-5112,Vancouver,Normal,Female,Food and beverages,66.14,4,13.228,Credit card,264.56,5.6
+03-06-2019,262-47-2794,Montreal,Member,Female,Home and lifestyle,71.86,8,28.744,Credit card,574.88,6.2
+3/27/2019,238-49-0436,Toronto,Normal,Male,Food and beverages,32.46,8,12.984,Credit card,259.68,4.9
+3/23/2019,608-96-3517,Montreal,Member,Female,Food and beverages,91.54,4,18.308,Credit card,366.16,4.8
+03-11-2019,584-86-7256,Vancouver,Member,Male,Food and beverages,34.56,7,12.096,Credit card,241.92,7.3
+1/29/2019,746-94-0204,Toronto,Normal,Male,Food and beverages,83.24,9,37.458,Credit card,749.16,7.4
+02-07-2019,214-17-6927,Vancouver,Normal,Female,Food and beverages,16.48,6,4.944,Ewallet,98.88,9.9
+1/28/2019,400-89-4171,Vancouver,Normal,Female,Food and beverages,80.97,8,32.388,Cash,647.76,9.3
+2/20/2019,782-95-9291,Toronto,Member,Male,Food and beverages,92.29,5,23.0725,Credit card,461.45,9
+01-04-2019,279-74-2924,Montreal,Member,Male,Electronic accessories,72.17,1,3.6085,Cash,72.17,6.1
+03-07-2019,307-85-2293,Montreal,Normal,Male,Home and lifestyle,50.28,5,12.57,Ewallet,251.4,9.7
+3/30/2019,743-04-1105,Montreal,Member,Male,Food and beverages,97.22,9,43.749,Ewallet,874.98,6
+3/27/2019,423-57-2993,Montreal,Normal,Female,Sports and travel,93.39,6,28.017,Ewallet,560.34,10
+1/19/2019,894-41-5205,Vancouver,Normal,Female,Food and beverages,43.18,8,17.272,Credit card,345.44,8.3
+2/25/2019,275-28-0149,Toronto,Normal,Female,Sports and travel,63.69,1,3.1845,Cash,63.69,6
+3/13/2019,101-17-6199,Toronto,Normal,Female,Food and beverages,45.79,7,16.0265,Credit card,320.53,7
+1/30/2019,423-80-0988,Vancouver,Normal,Male,Sports and travel,76.4,2,7.64,Ewallet,152.8,6.5
+2/20/2019,548-46-9322,Montreal,Normal,Male,Food and beverages,39.9,10,19.95,Credit card,399,5.9
+2/25/2019,505-02-0892,Montreal,Member,Male,Food and beverages,42.57,8,17.028,Ewallet,340.56,5.6
+1/16/2019,234-65-2137,Vancouver,Normal,Male,Home and lifestyle,95.58,10,47.79,Cash,955.8,4.8
+02-08-2019,687-47-8271,Toronto,Normal,Male,Electronic accessories,98.98,10,49.49,Credit card,989.8,8.7
+1/19/2019,796-32-9050,Toronto,Normal,Female,Food and beverages,51.28,6,15.384,Cash,307.68,6.5
+02-01-2019,105-31-1824,Toronto,Member,Female,Health and beauty,69.52,7,24.332,Credit card,486.64,8.5
+01-03-2019,249-42-3782,Toronto,Normal,Female,Health and beauty,70.01,5,17.5025,Ewallet,350.05,5.5
+1/26/2019,316-55-4634,Montreal,Member,Female,Food and beverages,80.05,5,20.0125,Credit card,400.25,9.4
+03-03-2019,733-33-4967,Vancouver,Normal,Male,Electronic accessories,20.85,8,8.34,Cash,166.8,6.3
+1/19/2019,608-27-6295,Montreal,Member,Male,Electronic accessories,52.89,6,15.867,Credit card,317.34,9.8
+1/18/2019,414-12-7047,Montreal,Normal,Male,Food and beverages,19.79,8,7.916,Ewallet,158.32,8.7
+3/21/2019,827-26-2100,Toronto,Member,Male,Home and lifestyle,33.84,9,15.228,Ewallet,304.56,8.8
+03-03-2019,175-54-2529,Toronto,Member,Male,Food and beverages,22.17,8,8.868,Credit card,177.36,9.6
+2/13/2019,139-52-2867,Vancouver,Normal,Female,Food and beverages,22.51,7,7.8785,Credit card,157.57,4.8
+3/23/2019,407-63-8975,Toronto,Normal,Female,Food and beverages,73.88,6,22.164,Ewallet,443.28,4.4
+1/28/2019,342-65-4817,Vancouver,Member,Female,Health and beauty,86.8,3,13.02,Ewallet,260.4,9.9
+02-09-2019,130-98-8941,Vancouver,Normal,Female,Food and beverages,64.26,7,22.491,Cash,449.82,5.7
+1/23/2019,434-83-9547,Vancouver,Member,Female,Food and beverages,38.47,8,15.388,Cash,307.76,7.7
+3/23/2019,851-28-6367,Toronto,Member,Female,Health and beauty,15.5,10,7.75,Ewallet,155,8
+1/25/2019,824-88-3614,Vancouver,Normal,Male,Health and beauty,34.31,8,13.724,Ewallet,274.48,5.7
+03-04-2019,586-25-0848,Toronto,Normal,Female,Health and beauty,12.34,7,4.319,Credit card,86.38,6.7
+03-05-2019,895-66-0685,Montreal,Member,Male,Food and beverages,18.08,3,2.712,Ewallet,54.24,8
+03-03-2019,305-14-0245,Montreal,Member,Female,Home and lifestyle,94.49,8,37.796,Ewallet,755.92,7.5
+02-08-2019,732-04-5373,Montreal,Member,Male,Home and lifestyle,46.47,4,9.294,Cash,185.88,7
+02-10-2019,400-60-7251,Toronto,Normal,Male,Home and lifestyle,74.07,1,3.7035,Ewallet,74.07,9.9
+1/28/2019,593-65-1552,Vancouver,Normal,Female,Home and lifestyle,69.81,4,13.962,Credit card,279.24,5.9
+02-11-2019,284-34-9626,Montreal,Normal,Female,Home and lifestyle,77.04,3,11.556,Credit card,231.12,7.2
+1/15/2019,437-58-8131,Montreal,Normal,Female,Food and beverages,73.52,2,7.352,Ewallet,147.04,4.6
+3/16/2019,286-43-6208,Vancouver,Normal,Female,Food and beverages,87.8,9,39.51,Cash,790.2,9.2
+1/26/2019,641-43-2399,Montreal,Normal,Male,Home and lifestyle,25.55,4,5.11,Ewallet,102.2,5.7
+3/19/2019,831-07-6050,Toronto,Normal,Male,Electronic accessories,32.71,5,8.1775,Credit card,163.55,9.9
+1/13/2019,556-86-3144,Vancouver,Member,Female,Food and beverages,74.29,1,3.7145,Cash,74.29,5
+3/26/2019,848-24-9445,Vancouver,Member,Male,Health and beauty,43.7,2,4.37,Cash,87.4,4.9
+3/23/2019,856-22-8149,Toronto,Normal,Female,Home and lifestyle,25.29,1,1.2645,Ewallet,25.29,6.1
+03-12-2019,699-01-4164,Vancouver,Normal,Female,Health and beauty,41.5,4,8.3,Credit card,166,8.2
+2/17/2019,420-11-4919,Vancouver,Member,Female,Food and beverages,71.39,5,17.8475,Credit card,356.95,5.5
+1/29/2019,606-80-4905,Vancouver,Member,Female,Sports and travel,19.15,6,5.745,Credit card,114.9,6.8
+3/15/2019,542-41-0513,Montreal,Member,Female,Electronic accessories,57.49,4,11.498,Cash,229.96,6.6
+1/14/2019,426-39-2418,Vancouver,Normal,Female,Electronic accessories,61.41,7,21.4935,Cash,429.87,9.8
+02-06-2019,875-46-5808,Montreal,Member,Female,Health and beauty,25.9,10,12.95,Ewallet,259,8.7
+2/15/2019,394-43-4238,Montreal,Member,Male,Home and lifestyle,17.77,5,4.4425,Credit card,88.85,5.4
+01-03-2019,749-24-1565,Toronto,Normal,Female,Health and beauty,23.03,9,10.3635,Ewallet,207.27,7.9
+01-04-2019,672-51-8681,Vancouver,Member,Female,Electronic accessories,66.65,9,29.9925,Credit card,599.85,9.7
+3/18/2019,263-87-5680,Vancouver,Member,Female,Home and lifestyle,28.53,10,14.265,Ewallet,285.3,7.8
+3/28/2019,573-58-9734,Montreal,Normal,Female,Food and beverages,30.37,3,4.5555,Ewallet,91.11,5.1
+03-02-2019,817-69-8206,Montreal,Normal,Female,Electronic accessories,99.73,9,44.8785,Credit card,897.57,6.5
+1/25/2019,888-02-0338,Toronto,Normal,Male,Electronic accessories,26.23,9,11.8035,Ewallet,236.07,5.9
+1/16/2019,677-11-0152,Vancouver,Normal,Female,Food and beverages,93.26,9,41.967,Cash,839.34,8.8
+3/20/2019,142-63-6033,Montreal,Normal,Male,Home and lifestyle,92.36,5,23.09,Ewallet,461.8,4.9
+01-04-2019,656-16-1063,Montreal,Normal,Male,Sports and travel,46.42,3,6.963,Credit card,139.26,4.4
+03-11-2019,891-58-8335,Montreal,Member,Female,Health and beauty,29.61,7,10.3635,Cash,207.27,6.5
+3/22/2019,802-43-8934,Toronto,Normal,Male,Home and lifestyle,18.28,1,0.914,Credit card,18.28,8.3
+3/24/2019,560-30-5617,Montreal,Normal,Female,Sports and travel,24.77,5,6.1925,Cash,123.85,8.5
+2/21/2019,319-74-2561,Toronto,Member,Female,Electronic accessories,94.64,3,14.196,Cash,283.92,5.5
+02-12-2019,549-03-9315,Montreal,Normal,Male,Food and beverages,94.87,8,37.948,Ewallet,758.96,8.7
+03-10-2019,790-29-1172,Montreal,Normal,Female,Food and beverages,57.34,3,8.601,Credit card,172.02,7.9
+1/31/2019,239-36-3640,Montreal,Normal,Female,Electronic accessories,45.35,6,13.605,Ewallet,272.1,6.1
+03-06-2019,468-01-2051,Montreal,Normal,Female,Food and beverages,62.08,7,21.728,Ewallet,434.56,5.4
+2/17/2019,389-25-3394,Vancouver,Normal,Female,Electronic accessories,11.81,5,2.9525,Cash,59.05,9.4
+2/21/2019,279-62-1445,Vancouver,Member,Female,Food and beverages,12.54,1,0.627,Cash,12.54,8.2
+3/20/2019,213-72-6612,Toronto,Normal,Male,Food and beverages,43.25,2,4.325,Cash,86.5,6.2
+01-11-2019,746-68-6593,Vancouver,Member,Female,Sports and travel,87.16,2,8.716,Credit card,174.32,9.7
+1/26/2019,836-82-5858,Montreal,Member,Male,Health and beauty,69.37,9,31.2165,Ewallet,624.33,4
+1/31/2019,583-72-1480,Vancouver,Member,Male,Electronic accessories,37.06,4,7.412,Ewallet,148.24,9.7
+2/26/2019,466-61-5506,Montreal,Member,Female,Electronic accessories,90.7,6,27.21,Cash,544.2,5.3
+03-11-2019,721-86-6247,Toronto,Normal,Female,Home and lifestyle,63.42,8,25.368,Ewallet,507.36,7.4
+1/26/2019,289-65-5721,Montreal,Normal,Female,Food and beverages,81.37,2,8.137,Cash,162.74,6.5
+03-12-2019,545-46-3100,Montreal,Member,Female,Electronic accessories,10.59,3,1.5885,Credit card,31.77,8.7
+02-11-2019,418-02-5978,Montreal,Normal,Female,Health and beauty,84.09,9,37.8405,Cash,756.81,8
+2/21/2019,269-04-5750,Montreal,Member,Male,Food and beverages,73.82,4,14.764,Cash,295.28,6.7
+03-09-2019,157-13-5295,Toronto,Member,Male,Health and beauty,51.94,10,25.97,Ewallet,519.4,6.5
+1/20/2019,645-78-8093,Toronto,Normal,Female,Sports and travel,93.14,2,9.314,Ewallet,186.28,4.1
+1/28/2019,211-30-9270,Vancouver,Normal,Male,Health and beauty,17.41,5,4.3525,Credit card,87.05,4.9
+03-05-2019,755-12-3214,Vancouver,Member,Female,Food and beverages,44.22,5,11.055,Credit card,221.1,8.6
+03-02-2019,346-84-3103,Montreal,Member,Female,Electronic accessories,13.22,5,3.305,Cash,66.1,4.3
+01-11-2019,478-06-7835,Toronto,Normal,Male,Food and beverages,89.69,1,4.4845,Ewallet,89.69,4.9
+01-11-2019,540-11-4336,Toronto,Normal,Male,Food and beverages,24.94,9,11.223,Credit card,224.46,5.6
+03-11-2019,448-81-5016,Toronto,Normal,Male,Health and beauty,59.77,2,5.977,Credit card,119.54,5.8
+2/28/2019,142-72-4741,Vancouver,Member,Male,Food and beverages,93.2,2,9.32,Credit card,186.4,6
+01-05-2019,217-58-1179,Toronto,Member,Female,Home and lifestyle,62.65,4,12.53,Cash,250.6,4.2
+02-02-2019,376-02-8238,Montreal,Normal,Female,Home and lifestyle,93.87,8,37.548,Credit card,750.96,8.3
+01-01-2019,530-90-9855,Toronto,Member,Male,Home and lifestyle,47.59,8,19.036,Cash,380.72,5.7
+02-09-2019,866-05-7563,Montreal,Member,Female,Electronic accessories,81.4,3,12.21,Cash,244.2,4.8
+1/23/2019,604-70-6476,Toronto,Member,Male,Fashion accessories,17.94,5,4.485,Ewallet,89.7,6.8
+01-07-2019,799-71-1548,Toronto,Member,Male,Electronic accessories,77.72,4,15.544,Credit card,310.88,8.8
+1/14/2019,785-13-7708,Montreal,Normal,Male,Food and beverages,73.06,7,25.571,Credit card,511.42,4.2
+02-02-2019,845-51-0542,Montreal,Member,Male,Food and beverages,46.55,9,20.9475,Ewallet,418.95,6.4
+3/17/2019,662-47-5456,Vancouver,Member,Female,Fashion accessories,35.19,10,17.595,Credit card,351.9,8.4
+03-02-2019,883-17-4236,Vancouver,Normal,Female,Sports and travel,14.39,2,1.439,Credit card,28.78,7.2
+3/16/2019,290-68-2984,Toronto,Normal,Female,Home and lifestyle,23.75,4,4.75,Cash,95,5.2
+01-06-2019,704-11-6354,Toronto,Member,Female,Home and lifestyle,58.9,8,23.56,Cash,471.2,8.9
+1/29/2019,110-48-7033,Montreal,Member,Female,Fashion accessories,32.62,4,6.524,Cash,130.48,9
+1/31/2019,366-93-0948,Toronto,Member,Male,Electronic accessories,66.35,1,3.3175,Credit card,66.35,9.7
+02-05-2019,729-09-9681,Toronto,Member,Male,Home and lifestyle,25.91,6,7.773,Ewallet,155.46,8.7
+2/13/2019,151-16-1484,Toronto,Member,Male,Electronic accessories,32.25,4,6.45,Ewallet,129,6.5
+02-07-2019,380-94-4661,Vancouver,Member,Male,Electronic accessories,65.94,4,13.188,Credit card,263.76,6.9
+3/19/2019,850-41-9669,Toronto,Normal,Female,Electronic accessories,75.06,9,33.777,Ewallet,675.54,6.2
+03-07-2019,821-07-3596,Vancouver,Normal,Female,Fashion accessories,16.45,4,3.29,Ewallet,65.8,5.6
+3/13/2019,655-85-5130,Montreal,Member,Female,Fashion accessories,38.3,4,7.66,Cash,153.2,5.7
+02-09-2019,447-15-7839,Toronto,Member,Female,Health and beauty,22.24,10,11.12,Cash,222.4,4.2
+2/26/2019,154-74-7179,Montreal,Normal,Male,Sports and travel,54.45,1,2.7225,Ewallet,54.45,7.9
+03-12-2019,253-12-6086,Toronto,Member,Female,Sports and travel,98.4,7,34.44,Credit card,688.8,8.7
+3/14/2019,808-65-0703,Vancouver,Normal,Male,Home and lifestyle,35.47,4,7.094,Credit card,141.88,6.9
+01-08-2019,571-94-0759,Montreal,Member,Female,Food and beverages,74.6,10,37.3,Cash,746,9.5
+01-05-2019,144-51-6085,Toronto,Member,Male,Home and lifestyle,70.74,4,14.148,Credit card,282.96,4.4
+01-04-2019,731-14-2199,Toronto,Member,Female,Home and lifestyle,35.54,10,17.77,Ewallet,355.4,7
+03-06-2019,783-09-1637,Montreal,Normal,Female,Sports and travel,67.43,5,16.8575,Ewallet,337.15,6.3
+01-03-2019,687-15-1097,Vancouver,Member,Female,Health and beauty,21.12,2,2.112,Cash,42.24,9.7
+01-07-2019,126-54-1082,Toronto,Member,Female,Home and lifestyle,21.54,9,9.693,Credit card,193.86,8.8
+1/27/2019,633-91-1052,Toronto,Normal,Female,Home and lifestyle,12.03,2,1.203,Cash,24.06,5.1
+2/26/2019,477-24-6490,Montreal,Normal,Female,Health and beauty,99.71,6,29.913,Ewallet,598.26,7.9
+01-07-2019,566-19-5475,Montreal,Normal,Male,Fashion accessories,47.97,7,16.7895,Cash,335.79,6.2
+01-07-2019,526-86-8552,Vancouver,Member,Female,Home and lifestyle,21.82,10,10.91,Cash,218.2,7.1
+02-02-2019,376-56-3573,Vancouver,Normal,Female,Fashion accessories,95.42,4,19.084,Ewallet,381.68,6.4
+3/20/2019,537-72-0426,Vancouver,Member,Male,Fashion accessories,70.99,10,35.495,Cash,709.9,5.7
+3/20/2019,828-61-5674,Toronto,Member,Female,Food and beverages,44.02,10,22.01,Credit card,440.2,9.6
+2/15/2019,136-08-6195,Toronto,Normal,Female,Home and lifestyle,69.96,8,27.984,Credit card,559.68,6.4
+03-06-2019,523-38-0215,Vancouver,Normal,Female,Home and lifestyle,37,1,1.85,Credit card,37,7.9
+01-06-2019,490-29-1201,Toronto,Normal,Female,Sports and travel,15.34,1,0.767,Cash,15.34,6.5
+03-04-2019,667-92-0055,Toronto,Member,Male,Health and beauty,99.83,6,29.949,Ewallet,598.98,8.5
+03-12-2019,565-17-3836,Toronto,Member,Female,Health and beauty,47.67,4,9.534,Cash,190.68,9.1
+2/20/2019,498-41-1961,Montreal,Normal,Male,Health and beauty,66.68,5,16.67,Cash,333.4,7.6
+3/24/2019,593-95-4461,Vancouver,Member,Male,Home and lifestyle,74.86,1,3.743,Cash,74.86,6.9
+1/31/2019,226-71-3580,Vancouver,Normal,Female,Sports and travel,23.75,9,10.6875,Cash,213.75,9.5
+1/25/2019,283-79-9594,Montreal,Normal,Female,Food and beverages,48.51,7,16.9785,Credit card,339.57,5.2
+02-03-2019,430-60-3493,Toronto,Member,Female,Home and lifestyle,94.88,7,33.208,Cash,664.16,4.2
+1/24/2019,139-20-0155,Montreal,Member,Male,Electronic accessories,40.3,10,20.15,Credit card,403,7
+3/14/2019,558-80-4082,Vancouver,Normal,Male,Electronic accessories,27.85,7,9.7475,Ewallet,194.95,6
+2/18/2019,278-97-7759,Toronto,Member,Female,Electronic accessories,62.48,1,3.124,Cash,62.48,4.7
+1/21/2019,316-68-6352,Toronto,Member,Female,Food and beverages,36.36,2,3.636,Cash,72.72,7.1
+3/13/2019,585-03-5943,Montreal,Normal,Male,Health and beauty,18.11,10,9.055,Ewallet,181.1,5.9
+03-03-2019,211-05-0490,Vancouver,Member,Female,Electronic accessories,51.92,5,12.98,Cash,259.6,7.5
+3/29/2019,727-75-6477,Vancouver,Normal,Female,Electronic accessories,28.84,4,5.768,Cash,115.36,6.4
+01-10-2019,744-02-5987,Toronto,Member,Female,Home and lifestyle,78.38,6,23.514,Ewallet,470.28,5.8
+1/25/2019,307-83-9164,Toronto,Member,Female,Home and lifestyle,60.01,4,12.002,Cash,240.04,4.5
+1/19/2019,779-06-0012,Vancouver,Member,Female,Home and lifestyle,88.61,1,4.4305,Cash,88.61,7.7
+01-02-2019,446-47-6729,Vancouver,Normal,Female,Fashion accessories,99.82,2,9.982,Credit card,199.64,6.7
+03-12-2019,573-10-3877,Montreal,Member,Male,Health and beauty,39.01,1,1.9505,Credit card,39.01,4.7
+2/25/2019,735-06-4124,Vancouver,Normal,Male,Food and beverages,48.61,1,2.4305,Cash,48.61,4.4
+3/18/2019,439-54-7422,Toronto,Normal,Female,Electronic accessories,51.19,4,10.238,Credit card,204.76,4.7
+2/23/2019,396-90-2219,Montreal,Normal,Female,Electronic accessories,14.96,8,5.984,Cash,119.68,8.6
+3/26/2019,411-77-0180,Toronto,Member,Male,Electronic accessories,72.2,7,25.27,Ewallet,505.4,4.3
+3/30/2019,286-01-5402,Toronto,Normal,Female,Sports and travel,40.23,7,14.0805,Cash,281.61,9.6
+2/17/2019,803-17-8013,Toronto,Member,Female,Home and lifestyle,88.79,8,35.516,Cash,710.32,4.1
+3/21/2019,512-98-1403,Toronto,Member,Female,Electronic accessories,26.48,3,3.972,Ewallet,79.44,4.7
+03-05-2019,848-42-2560,Toronto,Normal,Female,Fashion accessories,81.91,2,8.191,Cash,163.82,7.8
+1/31/2019,532-59-7201,Montreal,Member,Male,Sports and travel,79.93,6,23.979,Cash,479.58,5.5
+02-05-2019,181-94-6432,Vancouver,Member,Male,Fashion accessories,69.33,2,6.933,Ewallet,138.66,9.7
+02-01-2019,870-76-1733,Toronto,Member,Female,Food and beverages,14.23,5,3.5575,Credit card,71.15,4.4
+03-07-2019,423-64-4619,Toronto,Member,Female,Health and beauty,15.55,9,6.9975,Cash,139.95,5
+02-10-2019,227-07-4446,Vancouver,Member,Female,Electronic accessories,78.13,10,39.065,Cash,781.3,4.4
+2/14/2019,174-36-3675,Vancouver,Member,Female,Food and beverages,99.37,2,9.937,Cash,198.74,5.2
+02-09-2019,428-83-5800,Vancouver,Member,Female,Food and beverages,21.08,3,3.162,Cash,63.24,7.3
+01-10-2019,603-07-0961,Vancouver,Member,Female,Electronic accessories,74.79,5,18.6975,Cash,373.95,4.9
+03-11-2019,704-20-4138,Vancouver,Member,Female,Health and beauty,29.67,7,10.3845,Credit card,207.69,8.1
+2/18/2019,787-15-1757,Vancouver,Member,Female,Health and beauty,44.07,4,8.814,Ewallet,176.28,8.4
+2/26/2019,649-11-3678,Vancouver,Normal,Female,Food and beverages,22.93,9,10.3185,Cash,206.37,5.5
+1/18/2019,622-20-1945,Vancouver,Normal,Female,Health and beauty,39.42,1,1.971,Cash,39.42,8.4
+2/15/2019,372-94-8041,Toronto,Normal,Male,Health and beauty,15.26,6,4.578,Ewallet,91.56,9.8
+03-08-2019,563-91-7120,Toronto,Normal,Female,Fashion accessories,61.77,5,15.4425,Cash,308.85,6.7
+1/17/2019,746-54-5508,Toronto,Normal,Male,Home and lifestyle,21.52,6,6.456,Credit card,129.12,9.4
+03-12-2019,276-54-0879,Montreal,Normal,Male,Sports and travel,97.74,4,19.548,Ewallet,390.96,6.4
+03-09-2019,815-11-1168,Toronto,Member,Male,Food and beverages,99.78,5,24.945,Cash,498.9,5.4
+03-12-2019,719-76-3868,Vancouver,Member,Male,Food and beverages,94.26,4,18.852,Cash,377.04,8.6
+1/25/2019,730-61-8757,Montreal,Member,Male,Health and beauty,51.13,4,10.226,Credit card,204.52,4
+3/25/2019,340-66-0321,Toronto,Member,Male,Electronic accessories,36.36,4,7.272,Cash,145.44,7.6
+02-07-2019,868-81-1752,Montreal,Normal,Female,Home and lifestyle,22.02,9,9.909,Cash,198.18,6.8
+2/17/2019,634-97-8956,Toronto,Normal,Female,Food and beverages,32.9,3,4.935,Credit card,98.7,9.1
+02-03-2019,566-71-1091,Toronto,Normal,Male,Fashion accessories,77.02,5,19.255,Cash,385.1,5.5
+3/14/2019,442-48-3607,Toronto,Member,Male,Food and beverages,23.48,2,2.348,Credit card,46.96,7.9
+3/24/2019,835-16-0096,Vancouver,Member,Male,Sports and travel,14.7,5,3.675,Ewallet,73.5,8.5
+3/21/2019,527-09-6272,Toronto,Member,Female,Electronic accessories,28.45,5,7.1125,Credit card,142.25,9.1
+3/19/2019,898-04-2717,Toronto,Normal,Male,Fashion accessories,76.4,9,34.38,Ewallet,687.6,7.5
+2/24/2019,692-27-8933,Montreal,Normal,Female,Sports and travel,57.95,6,17.385,Cash,347.7,5.2
+3/28/2019,633-09-3463,Vancouver,Normal,Female,Electronic accessories,47.65,3,7.1475,Credit card,142.95,9.5
+02-05-2019,374-17-3652,Montreal,Member,Female,Food and beverages,42.82,9,19.269,Credit card,385.38,8.9
+02-10-2019,378-07-7001,Montreal,Member,Male,Electronic accessories,48.09,3,7.2135,Credit card,144.27,7.8
+03-05-2019,433-75-6987,Montreal,Member,Female,Health and beauty,55.97,7,19.5895,Ewallet,391.79,8.9
+2/15/2019,873-95-4984,Montreal,Member,Female,Health and beauty,76.9,7,26.915,Cash,538.3,7.7
+1/30/2019,416-13-5917,Vancouver,Normal,Female,Food and beverages,97.03,5,24.2575,Ewallet,485.15,9.3
+2/14/2019,150-89-8043,Toronto,Normal,Male,Sports and travel,44.65,3,6.6975,Cash,133.95,6.2
+2/27/2019,135-84-8019,Toronto,Normal,Female,Fashion accessories,77.93,9,35.0685,Ewallet,701.37,7.6
+02-04-2019,441-94-7118,Toronto,Member,Male,Electronic accessories,71.95,1,3.5975,Cash,71.95,7.3
+1/20/2019,725-96-3778,Vancouver,Member,Female,Home and lifestyle,89.25,8,35.7,Cash,714,4.7
+3/28/2019,531-80-1784,Toronto,Normal,Female,Electronic accessories,26.02,7,9.107,Cash,182.14,5.1
+2/27/2019,400-45-1220,Montreal,Normal,Female,Health and beauty,13.5,10,6.75,Credit card,135,4.8
+2/15/2019,860-79-0874,Vancouver,Member,Female,Fashion accessories,99.3,10,49.65,Credit card,993,6.6
+1/26/2019,834-61-8124,Toronto,Normal,Female,Electronic accessories,51.69,7,18.0915,Cash,361.83,5.5
+3/14/2019,115-99-4379,Montreal,Member,Female,Fashion accessories,54.73,7,19.1555,Credit card,383.11,8.5
+03-02-2019,565-67-6697,Montreal,Member,Male,Home and lifestyle,27,9,12.15,Cash,243,4.8
+03-04-2019,320-49-6392,Vancouver,Normal,Female,Electronic accessories,30.24,1,1.512,Cash,30.24,8.4
+01-07-2019,889-04-9723,Montreal,Member,Female,Food and beverages,89.14,4,17.828,Credit card,356.56,7.8
+03-08-2019,632-90-0281,Vancouver,Normal,Female,Fashion accessories,37.55,10,18.775,Credit card,375.5,9.3
+01-09-2019,554-42-2417,Vancouver,Normal,Female,Sports and travel,95.44,10,47.72,Cash,954.4,5.2
+03-01-2019,453-63-6187,Montreal,Normal,Male,Electronic accessories,27.5,3,4.125,Ewallet,82.5,6.5
+3/16/2019,578-80-7669,Montreal,Normal,Male,Sports and travel,74.97,1,3.7485,Cash,74.97,5.6
+2/17/2019,612-36-5536,Toronto,Member,Male,Food and beverages,80.96,8,32.384,Credit card,647.68,7.4
+2/27/2019,605-72-4132,Vancouver,Normal,Female,Food and beverages,94.47,8,37.788,Cash,755.76,9.1
+03-07-2019,471-41-2823,Vancouver,Normal,Male,Food and beverages,99.79,2,9.979,Ewallet,199.58,8
+1/21/2019,462-67-9126,Toronto,Normal,Male,Home and lifestyle,73.22,6,21.966,Cash,439.32,7.2
+2/19/2019,272-27-9238,Vancouver,Normal,Female,Food and beverages,41.24,4,8.248,Cash,164.96,7.1
+01-06-2019,834-25-9262,Vancouver,Normal,Female,Fashion accessories,81.68,4,16.336,Cash,326.72,9.1
+3/14/2019,122-61-9553,Vancouver,Normal,Female,Electronic accessories,51.32,9,23.094,Cash,461.88,5.6
+3/24/2019,468-88-0009,Toronto,Member,Female,Home and lifestyle,65.94,4,13.188,Cash,263.76,6
+1/27/2019,613-59-9758,Vancouver,Normal,Female,Sports and travel,14.36,10,7.18,Cash,143.6,5.4
+03-06-2019,254-31-0042,Toronto,Member,Female,Electronic accessories,21.5,9,9.675,Credit card,193.5,7.8
+02-02-2019,201-86-2184,Montreal,Member,Female,Electronic accessories,26.26,7,9.191,Cash,183.82,9.9
+1/25/2019,261-12-8671,Montreal,Normal,Female,Fashion accessories,60.96,2,6.096,Credit card,121.92,4.9
+3/14/2019,730-70-9830,Vancouver,Normal,Female,Home and lifestyle,70.11,6,21.033,Ewallet,420.66,5.2
+1/29/2019,382-25-8917,Vancouver,Normal,Male,Fashion accessories,42.08,6,12.624,Cash,252.48,8.9
+01-03-2019,422-29-8786,Toronto,Normal,Female,Home and lifestyle,67.09,5,16.7725,Credit card,335.45,9.1
+1/14/2019,667-23-5919,Toronto,Member,Female,Fashion accessories,96.7,5,24.175,Ewallet,483.5,7
+01-05-2019,843-01-4703,Montreal,Member,Female,Home and lifestyle,35.38,9,15.921,Credit card,318.42,9.6
+2/22/2019,743-88-1662,Vancouver,Normal,Male,Sports and travel,95.49,7,33.4215,Ewallet,668.43,8.7
+02-06-2019,595-86-2894,Vancouver,Member,Male,Fashion accessories,96.98,4,19.396,Ewallet,387.92,9.4
+1/30/2019,182-69-8360,Montreal,Normal,Female,Electronic accessories,23.65,4,4.73,Credit card,94.6,4
+01-11-2019,289-15-7034,Toronto,Member,Male,Sports and travel,82.33,4,16.466,Credit card,329.32,7.5
+3/19/2019,462-78-5240,Vancouver,Normal,Female,Electronic accessories,26.61,2,2.661,Cash,53.22,4.2
+1/14/2019,868-52-7573,Montreal,Normal,Female,Food and beverages,99.69,5,24.9225,Cash,498.45,9.9
+03-01-2019,153-58-4872,Vancouver,Member,Female,Food and beverages,74.89,4,14.978,Ewallet,299.56,4.2
+01-06-2019,662-72-2873,Toronto,Normal,Female,Food and beverages,40.94,5,10.235,Ewallet,204.7,9.9
+1/31/2019,525-88-7307,Montreal,Member,Male,Sports and travel,75.82,1,3.791,Cash,75.82,5.8
+03-11-2019,689-16-9784,Vancouver,Normal,Male,Food and beverages,46.77,6,14.031,Cash,280.62,6
+2/20/2019,725-56-0833,Toronto,Normal,Female,Health and beauty,32.32,10,16.16,Credit card,323.2,10
+1/27/2019,394-41-0748,Vancouver,Member,Female,Fashion accessories,54.07,9,24.3315,Ewallet,486.63,9.5
+03-10-2019,596-42-3999,Montreal,Normal,Male,Food and beverages,18.22,7,6.377,Credit card,127.54,6.6
+2/15/2019,541-89-9860,Vancouver,Member,Female,Electronic accessories,80.48,3,12.072,Cash,241.44,8.1
+1/26/2019,173-82-9529,Montreal,Normal,Female,Fashion accessories,37.95,10,18.975,Cash,379.5,9.7
+2/13/2019,563-36-9814,Toronto,Member,Female,Electronic accessories,76.82,1,3.841,Ewallet,76.82,7.2
+03-09-2019,308-47-4913,Toronto,Member,Female,Food and beverages,52.26,10,26.13,Credit card,522.6,6.2
+03-06-2019,885-17-6250,Toronto,Normal,Female,Health and beauty,79.74,1,3.987,Ewallet,79.74,7.3
+1/24/2019,726-27-2396,Toronto,Normal,Female,Health and beauty,77.5,5,19.375,Ewallet,387.5,4.3
+3/13/2019,316-01-3952,Toronto,Normal,Female,Food and beverages,54.27,5,13.5675,Ewallet,271.35,4.6
+3/15/2019,760-54-1821,Montreal,Normal,Female,Home and lifestyle,13.59,9,6.1155,Cash,122.31,5.8
+03-05-2019,793-10-3222,Montreal,Member,Female,Health and beauty,41.06,6,12.318,Credit card,246.36,8.3
+03-04-2019,346-12-3257,Montreal,Member,Female,Electronic accessories,19.24,9,8.658,Cash,173.16,8
+3/25/2019,110-05-6330,Vancouver,Normal,Female,Food and beverages,39.43,6,11.829,Credit card,236.58,9.4
+03-12-2019,651-61-0874,Vancouver,Normal,Male,Home and lifestyle,46.22,4,9.244,Credit card,184.88,6.2
+02-04-2019,236-86-3015,Vancouver,Member,Male,Home and lifestyle,13.98,1,0.699,Ewallet,13.98,9.8
+2/22/2019,831-64-0259,Montreal,Normal,Female,Fashion accessories,39.75,5,9.9375,Ewallet,198.75,9.6
+2/16/2019,587-03-7455,Vancouver,Member,Female,Fashion accessories,97.79,7,34.2265,Ewallet,684.53,4.9
+1/19/2019,882-40-4577,Toronto,Member,Male,Sports and travel,67.26,4,13.452,Credit card,269.04,8
+01-11-2019,732-67-5346,Toronto,Normal,Male,Food and beverages,13.79,5,3.4475,Credit card,68.95,7.8
+01-04-2019,725-32-9708,Montreal,Member,Female,Fashion accessories,68.71,4,13.742,Cash,274.84,4.1
+03-04-2019,256-08-8343,Toronto,Normal,Female,Home and lifestyle,56.53,4,11.306,Ewallet,226.12,5.5
+1/28/2019,372-26-1506,Vancouver,Normal,Female,Fashion accessories,23.82,5,5.955,Ewallet,119.1,5.4
+01-02-2019,244-08-0162,Montreal,Normal,Female,Health and beauty,34.21,10,17.105,Cash,342.1,5.1
+1/25/2019,569-71-4390,Montreal,Normal,Male,Sports and travel,21.87,2,2.187,Ewallet,43.74,6.9
+01-04-2019,132-23-6451,Toronto,Member,Male,Health and beauty,20.97,5,5.2425,Cash,104.85,7.8
+03-10-2019,696-90-2548,Toronto,Normal,Female,Sports and travel,25.84,3,3.876,Ewallet,77.52,6.6
+3/22/2019,472-15-9636,Toronto,Normal,Female,Home and lifestyle,50.93,8,20.372,Ewallet,407.44,9.2
+1/25/2019,268-03-6164,Montreal,Normal,Female,Health and beauty,96.11,1,4.8055,Ewallet,96.11,7.8
+01-08-2019,750-57-9686,Vancouver,Normal,Female,Home and lifestyle,45.38,4,9.076,Credit card,181.52,8.7
+1/22/2019,186-09-3669,Vancouver,Member,Female,Health and beauty,81.51,1,4.0755,Ewallet,81.51,9.2
+01-12-2019,848-07-1692,Montreal,Normal,Female,Health and beauty,57.22,2,5.722,Ewallet,114.44,8.3
+02-04-2019,745-71-3520,Toronto,Member,Female,Electronic accessories,25.22,7,8.827,Cash,176.54,8.2
+3/28/2019,266-76-6436,Vancouver,Member,Female,Food and beverages,38.6,3,5.79,Ewallet,115.8,7.5
+1/23/2019,740-22-2500,Vancouver,Normal,Female,Electronic accessories,84.05,3,12.6075,Cash,252.15,9.8
+02-08-2019,271-88-8734,Vancouver,Member,Female,Food and beverages,97.21,10,48.605,Credit card,972.1,8.7
+3/19/2019,301-81-8610,Montreal,Member,Female,Electronic accessories,25.42,8,10.168,Credit card,203.36,6.7
+03-09-2019,489-64-4354,Vancouver,Normal,Male,Food and beverages,16.28,1,0.814,Cash,16.28,5
+01-02-2019,198-84-7132,Montreal,Member,Male,Food and beverages,40.61,9,18.2745,Cash,365.49,7
+1/21/2019,269-10-8440,Toronto,Member,Male,Health and beauty,53.17,7,18.6095,Cash,372.19,8.9
+3/20/2019,650-98-6268,Montreal,Member,Female,Food and beverages,20.87,3,3.1305,Credit card,62.61,8
+2/27/2019,741-73-3559,Montreal,Normal,Male,Sports and travel,67.27,5,16.8175,Cash,336.35,6.9
+03-08-2019,325-77-6186,Toronto,Member,Female,Home and lifestyle,90.65,10,45.325,Ewallet,906.5,7.3
+1/31/2019,286-75-7818,Montreal,Normal,Male,Food and beverages,69.08,2,6.908,Credit card,138.16,6.9
+03-08-2019,574-57-9721,Vancouver,Normal,Male,Food and beverages,43.27,2,4.327,Ewallet,86.54,5.7
+1/13/2019,459-50-7686,Toronto,Normal,Female,Electronic accessories,23.46,6,7.038,Ewallet,140.76,6.4
+03-09-2019,616-87-0016,Montreal,Normal,Male,Food and beverages,95.54,7,33.439,Credit card,668.78,9.6
+2/22/2019,837-55-7229,Montreal,Normal,Female,Food and beverages,47.44,1,2.372,Credit card,47.44,6.8
+3/19/2019,751-69-0068,Vancouver,Normal,Male,Sports and travel,99.24,9,44.658,Ewallet,893.16,9
+1/20/2019,257-73-1380,Vancouver,Member,Female,Sports and travel,82.93,4,16.586,Ewallet,331.72,9.6
+03-08-2019,345-08-4992,Toronto,Normal,Female,Home and lifestyle,33.99,6,10.197,Credit card,203.94,7.7
+03-08-2019,549-96-4200,Vancouver,Member,Female,Food and beverages,17.04,4,3.408,Ewallet,68.16,7
+02-07-2019,810-60-6344,Vancouver,Normal,Female,Electronic accessories,40.86,8,16.344,Credit card,326.88,6.5
+1/15/2019,450-28-2866,Vancouver,Member,Male,Food and beverages,17.44,5,4.36,Cash,87.2,8.1
+3/22/2019,394-30-3170,Montreal,Member,Female,Sports and travel,88.43,8,35.372,Credit card,707.44,4.3
+1/15/2019,138-17-5109,Toronto,Member,Female,Home and lifestyle,89.21,9,40.1445,Credit card,802.89,6.5
+01-08-2019,192-98-7397,Vancouver,Normal,Male,Food and beverages,12.78,1,0.639,Ewallet,12.78,9.5
+1/15/2019,301-11-9629,Toronto,Normal,Female,Sports and travel,19.1,7,6.685,Cash,133.7,9.7
+1/28/2019,390-80-5128,Montreal,Member,Female,Health and beauty,19.15,1,0.9575,Credit card,19.15,9.5
+2/14/2019,235-46-8343,Vancouver,Member,Male,Food and beverages,27.66,10,13.83,Credit card,276.6,8.9
+03-10-2019,453-12-7053,Vancouver,Normal,Male,Food and beverages,45.74,3,6.861,Credit card,137.22,6.5
+01-12-2019,296-11-7041,Montreal,Member,Female,Health and beauty,27.07,1,1.3535,Credit card,27.07,5.3
+3/26/2019,449-27-2918,Montreal,Member,Female,Sports and travel,39.12,1,1.956,Credit card,39.12,9.6
+01-01-2019,891-01-7034,Montreal,Normal,Female,Electronic accessories,74.71,6,22.413,Cash,448.26,6.7
+01-02-2019,744-09-5786,Montreal,Normal,Male,Electronic accessories,22.01,6,6.603,Cash,132.06,7.6
+3/16/2019,727-17-0390,Toronto,Normal,Female,Food and beverages,63.61,5,15.9025,Ewallet,318.05,4.8
+03-03-2019,568-88-3448,Toronto,Normal,Male,Health and beauty,25,1,1.25,Ewallet,25,5.5
+1/31/2019,187-83-5490,Toronto,Member,Male,Electronic accessories,20.77,4,4.154,Cash,83.08,4.7
+2/13/2019,767-54-1907,Montreal,Member,Female,Food and beverages,29.56,5,7.39,Cash,147.8,6.9
+2/15/2019,710-46-4433,Montreal,Member,Female,Food and beverages,77.4,9,34.83,Credit card,696.6,4.5
+02-07-2019,533-33-5337,Montreal,Normal,Male,Electronic accessories,79.39,10,39.695,Cash,793.9,6.2
+1/27/2019,325-90-8763,Vancouver,Member,Female,Electronic accessories,46.57,10,23.285,Cash,465.7,7.6
+2/23/2019,729-46-7422,Vancouver,Normal,Female,Food and beverages,35.89,1,1.7945,Credit card,35.89,7.9
+02-03-2019,639-76-1242,Vancouver,Normal,Female,Food and beverages,40.52,5,10.13,Cash,202.6,4.5
+03-03-2019,234-03-4040,Montreal,Member,Female,Food and beverages,73.05,10,36.525,Credit card,730.5,8.7
+02-03-2019,326-71-2155,Vancouver,Normal,Female,Sports and travel,73.95,4,14.79,Cash,295.8,6.1
+3/17/2019,320-32-8842,Vancouver,Member,Female,Food and beverages,22.62,1,1.131,Cash,22.62,6.4
+3/28/2019,470-32-9057,Toronto,Member,Female,Food and beverages,51.34,5,12.835,Credit card,256.7,9.1
+03-02-2019,878-30-2331,Vancouver,Member,Female,Sports and travel,54.55,10,27.275,Credit card,545.5,7.1
+02-08-2019,440-59-5691,Vancouver,Member,Female,Health and beauty,37.15,7,13.0025,Credit card,260.05,7.7
+3/22/2019,554-53-3790,Montreal,Normal,Male,Sports and travel,37.02,6,11.106,Cash,222.12,4.5
+02-09-2019,746-19-0921,Vancouver,Normal,Male,Food and beverages,21.58,1,1.079,Ewallet,21.58,7.2
+2/15/2019,233-34-0817,Vancouver,Member,Female,Electronic accessories,98.84,1,4.942,Cash,98.84,8.4
+1/23/2019,767-05-1286,Vancouver,Member,Female,Home and lifestyle,83.77,6,25.131,Ewallet,502.62,5.4
+1/25/2019,340-21-9136,Toronto,Member,Female,Sports and travel,40.05,4,8.01,Cash,160.2,9.7
+02-02-2019,405-31-3305,Toronto,Member,Male,Electronic accessories,43.13,10,21.565,Credit card,431.3,5.5
+3/30/2019,731-59-7531,Montreal,Member,Male,Health and beauty,72.57,8,29.028,Cash,580.56,4.6
+3/30/2019,676-39-6028,Toronto,Member,Female,Electronic accessories,64.44,5,16.11,Cash,322.2,6.6
+2/25/2019,502-05-1910,Toronto,Normal,Male,Health and beauty,65.18,3,9.777,Credit card,195.54,6.3
+3/18/2019,485-30-8700,Toronto,Normal,Female,Sports and travel,33.26,5,8.315,Credit card,166.3,4.2
+03-07-2019,598-47-9715,Vancouver,Normal,Male,Electronic accessories,84.07,4,16.814,Ewallet,336.28,4.4
+3/16/2019,701-69-8742,Montreal,Normal,Male,Food and beverages,34.37,10,17.185,Ewallet,343.7,6.7
+1/29/2019,575-67-1508,Toronto,Normal,Male,Electronic accessories,38.6,1,1.93,Ewallet,38.6,6.7
+02-02-2019,541-08-3113,Vancouver,Normal,Male,Food and beverages,65.97,8,26.388,Cash,527.76,8.4
+2/15/2019,246-11-3901,Vancouver,Normal,Female,Electronic accessories,32.8,10,16.4,Cash,328,6.2
+01-08-2019,674-15-9296,Toronto,Normal,Male,Sports and travel,37.14,5,9.285,Ewallet,185.7,5
+02-12-2019,305-18-3552,Montreal,Member,Male,Home and lifestyle,60.38,10,30.19,Cash,603.8,6
+01-01-2019,493-65-6248,Vancouver,Member,Female,Food and beverages,36.98,10,18.49,Credit card,369.8,7
+3/21/2019,438-01-4015,Montreal,Member,Female,Sports and travel,49.49,4,9.898,Ewallet,197.96,6.6
+2/28/2019,709-58-4068,Montreal,Normal,Female,Electronic accessories,41.09,10,20.545,Cash,410.9,7.3
+3/23/2019,795-49-7276,Toronto,Normal,Male,Food and beverages,37.15,4,7.43,Ewallet,148.6,8.3
+1/30/2019,556-72-8512,Vancouver,Normal,Male,Home and lifestyle,22.96,1,1.148,Cash,22.96,4.3
+02-04-2019,627-95-3243,Montreal,Member,Female,Home and lifestyle,77.68,9,34.956,Ewallet,699.12,9.8
+3/13/2019,686-41-0932,Montreal,Normal,Female,Food and beverages,34.7,2,3.47,Ewallet,69.4,8.2
+3/15/2019,510-09-5628,Toronto,Member,Female,Electronic accessories,19.66,10,9.83,Credit card,196.6,7.2
+03-05-2019,608-04-3797,Montreal,Member,Female,Health and beauty,25.32,8,10.128,Ewallet,202.56,8.7
+03-05-2019,148-82-2527,Vancouver,Member,Female,Home and lifestyle,12.12,10,6.06,Credit card,121.2,8.4
+2/26/2019,437-53-3084,Montreal,Normal,Male,Food and beverages,99.89,2,9.989,Ewallet,199.78,7.1
+3/20/2019,632-32-4574,Montreal,Normal,Male,Sports and travel,75.92,8,30.368,Cash,607.36,5.5
+01-01-2019,556-97-7101,Vancouver,Normal,Female,Electronic accessories,63.22,2,6.322,Cash,126.44,8.5
+1/27/2019,862-59-8517,Vancouver,Normal,Female,Food and beverages,90.24,6,27.072,Cash,541.44,6.2
+1/21/2019,401-18-8016,Montreal,Member,Female,Sports and travel,98.13,1,4.9065,Cash,98.13,8.9
