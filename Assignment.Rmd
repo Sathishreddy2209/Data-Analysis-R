@@ -1,0 +1,167 @@
+---
+Title: "Assignment 1- Data Analysis using R Programming"
+Author: Group 9
+Date: "2024-02-06"
+Output:
+  pdf_document: default
+  html_document: default
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse) 
+library(tinytex)
+```
+
+### R Data Analysis Markdown
+
+This analysis leverages R Programming to explore a dataset through data manipulation, statistical evaluation, and visualization techniques. It includes data cleaning, variable identification, and the creation of new variables through mathematical transformations. Statistical functions such as mean, median, and mode are calculated, along with data visualization through scatter and bar plots. The study also employs linear regression to examine correlations between variables, offering insights into the dataset's dynamics and patterns.
+
+#Print the structure
+```{r print the structure}
+data <- read.csv("C:/Users/sathi/Downloads/HumberMart.csv")
+str(data)
+```
+#list the variables
+
+```{r list the variables}
+columns <- colnames(data)
+print(columns)
+```
+#Top 15 rows in the dataset
+
+```{r top 15 rows in the dataset}
+top_rows <- head(data, 15)
+show(top_rows)
+
+```
+
+#User defined function
+```{r user defined function}
+filter_product_lines <- function(data, target_city, min_rating = 9) {
+  filtered_lines <- data[data$City == target_city & data$Rating > min_rating, "Product.line"]
+  return(filtered_lines)
+}
+
+target_city <- "Toronto"
+
+high_rating_lines_in_city <- filter_product_lines(data, target_city) 
+
+print(unique(high_rating_lines_in_city))
+```
+
+#Filtering data
+```{r filtering data}
+library(dplyr)
+filteredData <- filter(data, Quantity > 5)
+head(filteredData)
+```
+#Reshaping Data 
+```{r  }
+data$TotalSales <- data$Unit.price * data$Quantity + data$Tax
+
+aggregated_df <- data %>%
+  group_by(Customer.type, Product.line, Payment) %>%
+  summarise(TotalSales = sum(TotalSales), .groups = 'drop')
+head(aggregated_df)
+```
+
+```{r}
+library(tidyr)
+
+
+wide_df <- aggregated_df %>%
+  pivot_wider(names_from = Product.line, values_from = TotalSales)
+head(wide_df)
+```
+
+#Performing Join to append Avg_City_Rating
+```{r}
+library(dplyr)
+library(tidyr)
+
+avg_rating_df <- data %>%
+  group_by(City, Product.line) %>%
+  summarise(Avg_Rating_For_City = mean(Rating, na.rm = TRUE), .groups = 'drop')
+
+
+df_with_avg_rating <- data %>%
+  left_join(avg_rating_df, by = c("City", "Product.line"))
+
+head(df_with_avg_rating)
+```
+
+#Omit Missing values
+```{r Omit Missing values}
+data <- na.omit(data)
+head(data)
+```
+#Identify and remove duplicated data
+```{r identify and remove duplicated data}
+data <- data[!duplicated(data), ]
+head(data)
+```
+
+#Sorting Quantity in Descending order
+```{r Sorting Quantity in Descending order}
+data <- data[order(-data$Rating), ]
+head(data)
+```
+
+#Renaming columns
+```{r Renaming columns}
+colnames(data)[colnames(data) == "Customer.type"] <- "Customer_type"
+colnames(data)[colnames(data) == "Unit.price"] <- "Unit_price"
+colnames(data)[colnames(data) == "Invoice.ID"] <- "Invoice_ID"
+columns <- colnames(data)
+print(columns)
+```
+
+#Creating a new variable
+```{r creating a new variable}
+data$DoubleUnitPrice <- data$Unit_price * 2
+head(data)
+```
+
+#Traning set using random number generator
+```{r traning set using random number generator}
+set.seed(123) 
+trainingIndex <- sample(1:nrow(data), 0.8 * nrow(data)) # 80% for training
+trainingSet <- data[trainingIndex, ]
+head(trainingSet)
+```
+
+#Summary statistics of the dataset
+```{r summary statistics of the dataset}
+summary(data)
+```
+
+# Performing Statistical OPerations: Mean, median, mode, range
+```{r Mean, median, mode, range}
+mean(data$Quantity)
+median(data$Quantity)
+Mode <- function(x) {
+  ux <- unique(x)
+  ux[which.max(tabulate(match(x, ux)))]
+}
+Mode(data$Quantity)
+range(data$Quantity)
+```
+```{r Scatter plot Unit_Price vs Tax}
+plot(data$Unit_price,data$Tax)
+```
+
+#Barplot Sales By City
+```{r barplot Sales By City}
+barplot(table(data$City), main="Sales by City", xlab="City", ylab="Sales")
+```
+
+#Correlation & linear regression model
+```{r correlation & linear regression model}
+cor(data$Unit_price, data$Rating)
+model <- lm(Rating ~ Unit_price, data=data)
+summary(model)
+```
+
+
